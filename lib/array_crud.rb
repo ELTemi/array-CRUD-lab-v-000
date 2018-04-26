@@ -1,6 +1,6 @@
 require "pry"
 def create_an_empty_array
-  []
+  array = []
 end
 binding.pry
 def create_an_array
